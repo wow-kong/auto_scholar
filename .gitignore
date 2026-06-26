@@ -1,0 +1,7 @@
+.DS_Store
+*.swp
+.*.swp
+.as/config.yaml
+webui/dist/
+webui/.cache/
+webui/node_modules/

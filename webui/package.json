@@ -1,0 +1,13 @@
+{
+  "name": "auto-scholar-webui",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check-js.mjs",
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "smoke": "node scripts/smoke-test.mjs",
+    "test": "npm run check && npm run smoke"
+  }
+}

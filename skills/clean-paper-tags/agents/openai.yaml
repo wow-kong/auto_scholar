@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clean Paper Tags"
+  short_description: "Normalize paper tags in Markdown knowledge bases"
+  default_prompt: "Use $clean-paper-tags to audit and normalize paper article tags without changing article content."
