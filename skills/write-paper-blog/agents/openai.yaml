@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write Paper Blog"
+  short_description: "Generate evidence-grounded paper explainer blogs"
+  default_prompt: "Use $write-paper-blog to turn this paper into a rigorous, readable Markdown technical blog."
